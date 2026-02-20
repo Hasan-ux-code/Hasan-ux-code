@@ -16,6 +16,7 @@ Web Developer | AI Enthusiast | Tech Lover
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
 ![Git](https://img.icons8.com/color/48/000000/git.png) 
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
+![C++](https://visualstudio.microsoft.com/vs/features/cplusplus/)
 
 
 ---
@@ -36,8 +37,15 @@ Web Developer | AI Enthusiast | Tech Lover
 ---
 
 ## Current Overview:
-- Studying at AIUB (Asian International University of Bangladesh)
-- Currently learning more about AI and Machine Learning
+- Studying at AIUB (American International University of Bangladesh)
+- Currently learning more about Development, AI and Machine Learning. 
 - Exploring Full Stack Web Development (React, Node.js, Express, MongoDB)
 - Contributing to Open Source Projects
 - Helping others with tech tutorials, web development, and AI concepts
+
+---
+
+## Work Experiance: 
+- Business Analyst at SJ IT LTD.
+- Business Analyst at Clouid Bridge IT Solution.
+ 
