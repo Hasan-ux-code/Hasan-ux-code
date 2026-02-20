@@ -1,21 +1,22 @@
-# I'm Hasan
+# I'm Mahmudul Hasan
 Web Developer | AI Enthusiast | Tech Lover
 
 ---
 
 ## Technologies I am proficient in:
-![HTML](https://img.icons8.com/ios/50/000000/html-5.png) 
-![CSS](https://img.icons8.com/ios/50/000000/css3.png) 
-![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) 
-![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png) 
-![React](https://img.icons8.com/ios/50/000000/react-native.png) 
-![Vue.js](https://img.icons8.com/ios/50/000000/vue-js.png) 
-![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png) 
-![MySQL](https://img.icons8.com/ios/50/000000/mysql.png) 
-![Express.js](https://img.icons8.com/ios/50/000000/express.png) 
-![TypeScript](https://img.icons8.com/ios/50/000000/typescript.png) 
-![Git](https://img.icons8.com/ios/50/000000/git.png) 
-![Figma](https://img.icons8.com/ios/50/000000/figma.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS](https://img.icons8.com/color/48/000000/css3.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
+![React](https://img.icons8.com/color/48/000000/react-native.png) 
+![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) 
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png) 
+![Express.js](https://img.icons8.com/color/48/000000/express.png) 
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
+![Git](https://img.icons8.com/color/48/000000/git.png) 
+![Figma](https://img.icons8.com/color/48/000000/figma.png)
+
 
 ---
 
