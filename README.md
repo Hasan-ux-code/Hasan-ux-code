@@ -16,7 +16,7 @@ Web Developer | AI Enthusiast | Tech Lover
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) 
 ![Git](https://img.icons8.com/color/48/000000/git.png) 
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
 
 
 ---
